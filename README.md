@@ -1,6 +1,6 @@
 ### Hi semua 👋
 
-Perkenalkan nama saya **PradaGanteng**.  
+Perkenalkan nama saya **Prada Dipa**.  
 Saya adalah seorang **Mahasiswa Jurusan Matematika** angkatan 2020 dari Universitas Udayana
 
 <p align="left">
