@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prada Dipa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Mahasiswa+Matematika+%E2%80%A2+Udayana+University;Angkatan+2020;Belajar+Data+%26+Programming;Selalu+Terbuka+untuk+Kolaborasi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Mahasiswa+Matematika+%E2%80%A2+Udayana+University;Angkatan+2020;Belajar+Data+%26+Programming;Selalu+Terbuka+untuk+Kolaborasi!" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,14 +13,13 @@
 - 🌱 Terus belajar hal baru di bidang teknologi & analisis data
 - 💬 Tanyakan saya soal matematika, statistika, atau pemrograman dasar
 - 📫 Cara menghubungi saya: **putu.pradadipa@gmail.com**
-- ⚡ Fun fact: **[tulis sesuatu yang unik tentang kamu]**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,latex,git,github,vscode,linux" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,r,latex,git,github,vscode,typescript" alt="tech stack icons"/>
 </p>
 
 ---
